@@ -1,0 +1,2 @@
+# Arithmetic-Function
+Code Kata
