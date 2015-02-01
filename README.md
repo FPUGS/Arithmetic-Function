@@ -18,7 +18,9 @@ You can solve the same code kata in multiple languages by creating more braches.
 - create a branch with `[your username]`/`[lang]` example: `theRemix/ocaml`
 - work on your branch
 - push to your own repo
-- do a pull request, from `your origin/your_name_branch` to `FPUGS/your_name_branch` (it might not exist, so create it? or just use master)
+- when you are ready to submit, go to this repo's main page, click on branches, enter in the name of the branch that you pushed to your origin.  ![create branch](http://i.imgur.com/B5GZ0xC.png)
+- create a pull request, from `FPUGS/your_name_branch` to `your origin/your_name_branch`  ![pull request](http://i.imgur.com/16CBVIC.png)
+- it should look like this  ![proper pull request](http://i.imgur.com/9nk5H6o.png)
 - when @theRemix reviews it, he will accept the pull request  
   - or accept your own pull request if you don't want to be reviewed (since you have access to accept it to FPUGS)
 - post on Hipchat with the link to your fork url
