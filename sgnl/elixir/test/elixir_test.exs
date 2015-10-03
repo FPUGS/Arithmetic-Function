@@ -16,4 +16,9 @@ defmodule ArithmeticTest do
     assert arith(7, '*', 10) == 70
     assert arith(8, '*', -4) == -32
   end
+
+  test "divide" do
+    assert arith(9, '/', 3) == 3
+    assert arith(10, '/', 2) == 5
+  end
 end
