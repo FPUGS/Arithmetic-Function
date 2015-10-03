@@ -4,11 +4,16 @@ defmodule ArithmeticTest do
 
   test "add" do
     assert arith(1, '+', 1) == 2
-    assert arith(5, '+', 89) == 94
+    assert arith(-5, '+', 89) == 84
   end
 
   test "subtract" do
     assert arith(5, '-', 6) == -1
     assert arith(54, '-', 32) == 22
+  end
+
+  test "multiply" do
+    assert arith(7, '*', 10) == 70
+    assert arith(8, '*', -4) == -32
   end
 end
