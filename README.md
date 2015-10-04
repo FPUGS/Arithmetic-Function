@@ -1,18 +1,13 @@
 # Arithmetic-Function
+[![Join the chat at https://gitter.im/FPUGS](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FPUGS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Code Kata
-
+# Goal
 Create an Arithmetic function that accepts an operation [add, sub, mul, div], and two operands.
 
-----
-
-solve this using any FP lang you want.
+Solve this using any functional language you want.
 Haskell, F#, Closure, Ocaml, Scala, Common Lisp, D, Erlang, etc.
-You can solve the same code kata in multiple languages by creating more braches.
 
-----
-
-## To submit your solution
+## Submiting your solution
 
 - fork this repo
 - create a directory with `[your username]`/`[lang]` example: `theRemix/ocaml`
